@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e746c34-b13b-42aa-9760-32b2b707586d" /># 📊 Customer Churn Prediction Web App
+# 📊 Customer Churn Prediction Web App
 A **Streamlit** web app to predict if a customer is likely to churn or stay based on their account information.  
 ---
 
